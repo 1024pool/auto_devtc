@@ -1,0 +1,6 @@
+test.vip.com,svn://192.168.42.163/davesvn/trunk,svn://192.168.42.163/davesvn/branches/release_20140730,105
+test.vip.com,svn://192.168.42.163/davesvn/trunk,svn://192.168.42.163/davesvn/branches/release_20140730,105
+test.vip.com,svn://192.168.42.163/davesvn/trunk,svn://192.168.42.163/davesvn/branches/release_20140730,105
+test.vip.com,svn://192.168.42.163/davesvn/trunk,svn://192.168.42.163/davesvn/branches/release_20140730,105
+test.vip.com,svn://192.168.42.163/davesvn/trunk,svn://192.168.42.163/davesvn/branches/release_20140730,105
+test.vip.com,svn://192.168.42.163/davesvn/trunk,svn://192.168.42.163/davesvn/branches/release_20140730,105

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="gb2312"?>
+<project ver="3" name="DevTC" libEmbed="true" icon="\res\favicon.ico" ui="win" output="viptc.exe" CompanyName="唯品会" FileDescription="DevTC" LegalCopyright="Copyright (C) Angryfox Su 2014" ProductName="DevTC" InternalName="DevTC" FileVersion="0.0.0.20" ProductVersion="0.0.0.20" publishDir="/Publish/">
+	<file name="main.aau" path="main.aau"/>
+	<folder name="资源文件" path="res" embed="true"/>
+</project>
